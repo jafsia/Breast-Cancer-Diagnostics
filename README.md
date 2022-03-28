@@ -1,6 +1,6 @@
 # **Open Science for Improve diagnostics of Cancer through Artificial Intelligence and Digital Pathology.**
 
-![MboaLab](
+![MboaLab](https://avatars.githubusercontent.com/u/62905422?s=200&v=4)
 Cancer is becoming increasingly prevalent among the group of treatable diseases in African countries. In sub-Saharan Africa, only 10% of histopathology needs are met and this is a major barrier to comprehensive management of cancers (1). There is a shortage of clinicians and pathologists available for cancer diagnosis and treatment. One of the critical factors in treatment efficiency is the correct and timely diagnosis of specimens by pathologists. However, there is currently a significant shortage of cancer care clinicians in Africa and an even more considerable shortage of pathologists. In Cameroon, there are 19 pathologists currently in practice for 22,179,707 inhabitants (2). The absolute number of patients with cancer in Cameroon was estimated to be 25,000 cases a year.
 
 Diagnosis of cancer relies on histology in nearly 80% of cases, cytology in 10%, and clinical diagnosis in 10% (1). There is, therefore, an urgent need to develop a rapid, highly sensitive and diagnostic tool for the diagnosis of cancers, to increase cancer treatment efficacy and reduce overtreatment of tumors clinically suspicious for malignancy.
