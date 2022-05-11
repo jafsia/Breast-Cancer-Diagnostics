@@ -1,35 +1,71 @@
 # **Open Science for Improve diagnostics of Cancer through Artificial Intelligence and Digital Pathology.**
+Preject's repository for the OLS5 Hope cohort 2022 project: **Open Science for Improve diagnostics of Cancer through Artificial Intelligence and Digital Pathology**
+## Welcome!
 
+**Content:**
+- [About the project](#about-the-project)
+- [Contributing](#contributing)
+- [Get in touch](#get-in-touch)
+- [The Team](#the-team)
+
+## About the Project
+Cancer is becoming increasingly prevalent among the group of treatable diseases in African countries. In sub-Saharan Africa, only 10% of histopathology needs are met and this is a major barrier to comprehensive management of cancers (1). There is a shortage of clinicians and pathologists available for cancer diagnosis and treatment. One of the critical factors in treatment efficiency is the correct and timely diagnosis of specimens by pathologists. However, there is currently a significant shortage of cancer care clinicians in Africa and an even more considerable shortage of pathologists. In Cameroon, there are 19 pathologists currently in practice for 22,179,707 inhabitants (2). The absolute number of patients with cancer in Cameroon was estimated to be 25,000 cases a year.
+
+Diagnosis of cancer relies on histology in nearly 80% of cases, cytology in 10%, and clinical diagnosis in 10%. There is, therefore, an urgent need to develop a rapid, highly sensitive and diagnostic tool for the diagnosis of cancers, to increase cancer treatment efficacy and reduce overtreatment of tumors clinically suspicious for malignancy.
+
+We propose a hybrid diagnosis method with a deep Learning algorithm applied on hematoxylin and eosin histology slides. Digital microscopy and telepathology were already successfully used to mitigate the lack of pathologists in Cameroon, thus confirming the availability of a robust dataset for our project (1). Following splitting into training, validation and test sets, we will use CNNs as algorithms on the collected images to train the algorithm before deployment and tests. In addition to automated diagnostic, the developed program will have specific features such as sample information storage and tracking software as well as image optimization and analysis tools. 
+
+**The aim of this project is to develop a hybrid diagnosis method combining deep Learning algorithms and Digital microscopy of stained specimens for diagnosis of cancers, breast cancer in particular.**
+
+## Contributing
+
+Open and multy faceted contribution to this project are highly encouraged! Contributrions of any form following personnal interest, availability, or skill can be made through this project repository on GitHub. All participants are expected to follow our [project's code of conduct](https://github.com/Fadanka/Breast-Cancer-Diagnostics/blob/main/Code%20of%20Conduct.md) and check the [Contributions Guidelines](https://github.com/Fadanka/Breast-Cancer-Diagnostics/blob/main/CONTRIBUTING.md).
+
+## Get in touch
+
+If you want to report a problem or suggest an improvement, feel free to send a pulled request to this Github repository or contact a project's team members following details below.
+
+## The Team
 ![MboaLab](https://avatars.githubusercontent.com/u/62905422?s=200&v=4)
-Cancer is becoming increasingly prevalent among the group of treatable diseases in African countries. In sub-Saharan Africa, only 10% of histopathology needs are met and this is a major barrier to comprehensive management of cancers (1). There is a shortage of clinicians and pathologists available for cancer diagnosis and treatment. One of the critical factors in treatment efficiency is the correct and timely diagnosis of specimens by pathologists. However, there is currently a significant shortage of cancer care clinicians in Africa and an even more considerable shortage of pathologists. In Cameroon, there are 19 pathologists currently in practice for 22,179,707 inhabitants (2). The absolute number of patients with cancer in Cameroon was estimated to be 25,000 cases a year.
 
-Diagnosis of cancer relies on histology in nearly 80% of cases, cytology in 10%, and clinical diagnosis in 10% (1). There is, therefore, an urgent need to develop a rapid, highly sensitive and diagnostic tool for the diagnosis of cancers, to increase cancer treatment efficacy and reduce overtreatment of tumors clinically suspicious for malignancy.
+- Jafsia elisee
+Personal info:
+JAFSIA Elisee is the head of the Electromechanical and Artificial Intelligence department at MboaLab in Cameroon. JAFSIA is holder of a MSc in Material sciences from the University of Yaounde I as well as a MEd in Physics from the Higher teacher’s training college of Yaounde. He is currently member of the DIDA (Digital diagnostics for better healthcare in Africa) network and the technical lead for the OpenFlexure Microscope project in the MbaoLab.
 
-We propose a hybrid diagnosis method with a deep Learning algorithm applied on hematoxylin and eosin histology slides. Digital microscopy and telepathology were already successfully used to mitigate the lack of pathologists in Cameroon, thus confirming the availability of a robust dataset for our project (1). Following splitting into training, validation and test sets, we will use CNNs as algorithms on the collected images to train the algorithm before deployment and tests. In addition to automated diagnostic, the developed program will have specific features such as sample information storage and tracking software as well as image optimization and analysis tools.
+Timezone: Africa/Douala
+Location: Cameroun
+Contact info:
+Personal email: "jafsia elisee" jafsiaelisee@gmail.com
+Username on community forums or chat: Elja
+GitHub profile: https://www.github.com/jafsia
+GitLab profile: https://gitlab.com/jafsia
+Blog: https://www.linkedin.com/jafsiaelisee
+Twitter profile: https://twitter.com/euclude
 
-Problem:
-Cancer is becoming increasingly prevalent among the group of treatable diseases in African countries. In sub-Saharan Africa, only 10% of histopathology needs are met and this is a major barrier to comprehensive management of cancers (1). There is a shortage of clinicians and pathologists available for cancer diagnosis and treatment. One of the critical factors in treatment efficiency is the correct and timely diagnosis of specimens by pathologists. However, there is currently a significant shortage of cancer care clinicians in Africa and an even more considerable shortage of pathologists. In Cameroon, there are 19 pathologists currently in practice for 22,179,707 inhabitants (2). The absolute number of patients with cancer in Cameroon was estimated to be 25,000 cases a year.
+- Stephane Fadanka
+Personal info:
+Stephane Fadanka is a Molecular Biology researcher and a fervent advocate of Open Science in Africa with a particular interest in plant and synthetic biotechnology. Carrying a long-standing passion for agriculture and plant biotechnology, he conducted a study on microbial host interaction for integrated pest management to Masters level. His current research interests include (1) developing and adapting modern Biotechnology tools and methods to be used in low resource settings and (2) screening of novel, cheap and environmentally friendly biologically active compounds from microorganisms and (3) the development of cost-effective and widely accessible plant propagation methods. Stephane is currently the Executive Director of MboaLab and has close to two years of professional experience as a researcher then research manager for the UK-based social enterprise Beneficial Bio Ltd.
 
-The aim of this project is to develop a Global, timely and reliable improved diagnostic tool for histopathologic and cytopathologic diagnoses, mandatory for the therapy of malignant tumours, and to mitigate the lack of pathologists in Cameroon.
+Timezone: Africa/Douala
+Location: Yaoundé, Cameroon
+Contact info:
+Personal email: "Stephane Fadanka" stephanefadanka@gmail.com
+Username on community forums or chat: Stephane Fadanka
+GitHub profile: https://github.com/Fadanka
+GitLab profile: https://gitlab.com/stephanefadanka
+Twitter profile: https://twitter.com/StephaneFadanka
 
-# **Achievements:**
-The OLS-5 program will enable us to get the right support for the implementation of this project. Through the mentorship and cohort-based system, we expect to;
+- Nodira Ibrogimova
+Personal info:
+Nodira Ibrogimova is a Machine Learning enthusiast with 3+ years of experience in Web Development and Machine Learning.
 
-- Come up with a timeline and work-frame with specific activities for the completion of the project
-- Identify and Mobilise resources
-- Create a network of open source contributors
-- Learn, implement and explore open-source collaboration approaches
+Her passion in Computer Science and Artificial Intelligence has ultimetely lead to hold a Bachelor's Degree from South Korean university - Inha University.
 
-As an organisation, at Mboalab we strive to make our community welcoming and open to everybody, regardless of scholarly or professional background, gender identity and expression, ability, physical appearance, body size, race, age, economic background, country of origin or employment, religion, and other characteristics. These core values are strongly bound to Open-source work. We believe developing open resources will enable us to hone our technical skills and gain experience in new fields of activities. By collaborating with others on open source contributions, we get to become part of a community where we can practise skills like communication, giving and receiving feedback, emotional intelligence, etc. Communities also introduce participants to tons of people and potential networks, providing an opening to worthwhile opportunities.
+Currently researching and working on early diagnosis tools.
 
-# **Challenges:**
-__Main challenges encounter while working in Open Science:__
-
-Lack of availability of some data and information
-Difficulty to capture attention and raise the interest of a great number of contributor
-Delay due to lack of motivation with respect to the lack of remuneration
-Miscommunication
-Learning:
-Learn, implement and explore novel open-source collaboration approaches
-Learn and receive guidance and feedback from experience mentors
-Learn specific skills in AI design workflow and ideas on the full potential of AI in health and diagnostic
+Timezone: (GMT+5)
+Location: Uzbekistan
+Contact info:
+Personal email: "Nodira Ibrogimova" nodira.ibrogimova@gmail.com
+Username on community forums or chat: Nodira Ibrogimova
+GitHub profile: https://github.com/NodiraIbrogimova
