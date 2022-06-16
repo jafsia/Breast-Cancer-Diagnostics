@@ -1,4 +1,4 @@
-# **Open Science for Improve diagnostics of Cancer through Artificial Intelligence and Digital Pathology.**
+# **Open Science for Improve diagnostics of Breast Cancer through Artificial Intelligence and Digital Pathology.**
 Preject's repository for the OLS5 Hope cohort 2022 project: **Open Science for Improve diagnostics of Cancer through Artificial Intelligence and Digital Pathology**
 ## Welcome!
 
